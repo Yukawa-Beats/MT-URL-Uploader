@@ -9,7 +9,7 @@ Thanks To Fayas
 
 ## Deploy 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yukawa-Beats/YB-DeleteMessages-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yukawa-Beats/MT-URL-Uploader)
 
 ## Variables
 
