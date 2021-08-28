@@ -5,9 +5,7 @@ A simple url uploader bot with permenent thumbnail support
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
 Made with Python3
 
-Thanks To Fayas 
-
-```
+Thanks To Fayas
 
 ## Deploy 
 
