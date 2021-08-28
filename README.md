@@ -11,21 +11,7 @@ Thanks To Fayas
 
 ## Deploy 
 
-<b>Deploy on Heroku</b>
-<p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/Yukawa-Beats/MT-URL-Uploader">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
-  </a>
-</p>
-
-<b>Deploy in your vps</b>
-```sh
-git clone https://github.com/Yukawa-Beats/MT-URL-Uploader
-cd MT-URL-Uploader
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 bot.py
-```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yukawa-Beats/YB-DeleteMessages-Bot)
 
 ## Variables
 
